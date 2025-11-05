@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Introduction</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm Ty!</h1>
+        <p class="subtitle">Welcome to my personal webpage</p>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>About Me</h2>
+            <p>
+                I'm a beginner learning to code and web development. I'm excited to explore
+                new technologies and create amazing things on the web. This is my first project!
+            </p>
+        </section>
+
+        <section class="hobbies">
+            <h2>My Hobbies & Interests</h2>
+            <ul>  
+                <li>Coding and web development</li>
+                <li>Reading and learning new things</li>
+                <li>Video games, including Pokémon, and the Legend of Zelda </li>
+                <li>Creating projects and solving problems</li>
+                <li>Going on adventures with my dog, Rocket</li>
+            </ul>
+        </section>
+
+        <section class="fun-fact">
+            <h2>Fun Fact About Me</h2>
+            <p>
+                I can learn something completely new every day! Every challenge I face
+                makes me stronger and more creative.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Personal Webpage. All rights reserved.</p>
+    </footer>
+</body>
+</html>
