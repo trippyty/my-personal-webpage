@@ -1,4 +1,4 @@
-/* General styling for the entire page - Updated */
+/* General styling for the entire page */
 body {
     font-family: 'pixelfy sans';
     line-height: 1.6;
@@ -6,7 +6,6 @@ body {
     padding: 0;
     background: linear-gradient(135deg, #1affb8 0%, #764ba2 100%);
     min-height: 100vh;
-    color: #667eea;
 }
 
 /* Header styling - the top section with your name */
@@ -36,11 +35,12 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 0 20px 40px;
+    color: #eff4cb;
 }
 
 /* Styling for each section (about, hobbies, fun fact) */
 section {
-    background-color: white;
+    background-color: #1f474a;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 8px;
@@ -56,11 +56,11 @@ section:hover {
 
 /* Styling for section headings */
 section h2 {
-    color: #667eea;
+    color: #eff4cb;
     font-size: 1.8em;
     margin-top: 0;
     margin-bottom: 15px;
-    border-bottom: 3px solid #764ba2;
+    border-bottom: 3px solid #1affb8;
     padding-bottom: 10px;
 }
 
@@ -81,7 +81,7 @@ section h2 {
     content: "✓";
     position: absolute;
     left: 0;
-    color: #667eea;
+    color: #1f474a;
     font-weight: bold;
     font-size: 1.2em;
 }
